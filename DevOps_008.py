@@ -1,2 +1,2 @@
 print("Hello World")
-print("After mofication")
+print("After Mofication")
